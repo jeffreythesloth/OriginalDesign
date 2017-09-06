@@ -21,12 +21,12 @@ void draw()
   triangle();
   ellipse();
 }
-void triangle()
+void tri()
 {
   fill(255,247,3);
   triangle(150,20,20,250,280,250);
 }
-void ellipse()
+void ell()
 {
   fill(0);
   ellipse(150,150,130,100);
