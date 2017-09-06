@@ -18,8 +18,8 @@ void setup()
 }
 void draw()
 {
-  triangle();
-  ellipse();
+  tri();
+  ell();
 }
 void tri()
 {
